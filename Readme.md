@@ -1,4 +1,6 @@
-# Git Command Shotcut
+# Author - W.R.Middya
+
+### Git Command Shotcut
 - echo "# backend-app" >> README.md 
 - git init
 - git add README.md
@@ -7,5 +9,3 @@
 - git remote add origin https://github.com/wasimmiddya/backend-app.git
 - git push -u origin master
 
-
-## Author - W.R.Middya
